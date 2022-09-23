@@ -1,0 +1,153 @@
+{
+  "Enable": {
+    "Value": true
+  },
+  "Username": {
+    "Value": ""
+  },
+  "Password": {
+    "Value": ""
+  },
+  "Plugins": [
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "HealthBars"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/Queuete/HealthBars"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    },
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "MinimapIcons"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/Queuete/MinimapIcons"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    },
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "IconsBuilder"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/Queuete/IconsBuilder"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    },
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "Stashie"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/Craere/Stashie"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    },
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "BasicFlaskRoutine"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/Barragek0/BasicFlaskRoutine"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    },
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "PreloadAlert"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/Queuete/PreloadAlert"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    },
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "MiscInformation"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/IlliumIv/MiscInformation"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    },
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "SimpleStashie"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/Queuete/SimpleStashie"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    },
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "SimplePickIt"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/Queuete/SimplePickIt"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    },
+    {
+      "Enable": {
+        "Value": true
+      },
+      "Name": {
+        "Value": "SimpleHotkeyChain"
+      },
+      "SourceUrl": {
+        "Value": "https://github.com/Queuete/SimpleHotkeyChain"
+      },
+      "CommitShaCurrent": {
+        "Value": null
+      }
+    }
+  ]
+}
