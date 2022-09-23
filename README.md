@@ -21,6 +21,10 @@ https://github.com/snowhawk04/EZVendor
 
 https://github.com/HugKitten/AdvancedTooltip
 
+https://github.com/Barragek0/BasicFlaskRoutine
+
+https://github.com/Queuete/HealthBars
+
 ----
 
 https://github.com/arturino009/ExpeditionIcons
